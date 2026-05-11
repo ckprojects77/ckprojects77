@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/chaitanya-kumari-challa-429bb3397/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:chaitanyakumarichalla099@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
@@ -60,7 +60,7 @@ Currently sharpening: **graphs**, **dynamic programming**, and **system design b
 | Graphs (BFS/DFS/Dijkstra) | 🔄 In progress |
 | Dynamic Programming | 📌 Up next |
 
-> Solving consistently on LeetCode — [see my profile](https://leetcode.com/YOUR_LEETCODE)
+> Solving consistently on LeetCode — [see my profile](https://leetcode.com/chaitanya_kumariii/)
 
 ---
 
